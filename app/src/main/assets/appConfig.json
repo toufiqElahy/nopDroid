@@ -126,7 +126,7 @@
     },
     "facebook": {
       "active": false,
-      "appId": "",
+      "appId": "123",
       "displayName": ""
     },
     "registration": {
